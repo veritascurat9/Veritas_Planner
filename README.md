@@ -1,1 +1,1 @@
-# Vyaan_planner
+# Veritas_Planner
